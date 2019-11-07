@@ -1,0 +1,19 @@
+{
+  "name": "cordova-plugin-statusbar-height",
+  "version": "1.0.0",
+  "description": "",
+  "cordova": {
+    "id": "cordova-plugin-statusbar-height",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "gene.wang",
+  "license": "ISC"
+}
